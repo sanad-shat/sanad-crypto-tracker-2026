@@ -1,0 +1,18 @@
+{
+  "siteName": "Sanad Crypto Tracker",
+  "heroTitle": "Track Cryptocurrency Prices in Real-Time",
+  "heroDescription": "Monitor real-time cryptocurrency prices, market trends, and performance insights from the world's leading digital assets.",
+  "primaryColor": "#2563eb",
+  "secondaryColor": "#14b8a6",
+  "heroImage": "",
+  "coinLimit": 250,
+  "selectedCoins": [],
+  "refreshSeconds": 60,
+  "showStats": true,
+  "showTrending": true,
+  "showGainers": true,
+  "showLosers": true,
+  "showMarket": true,
+  "showNews": false,
+  "showSummary": true
+}
